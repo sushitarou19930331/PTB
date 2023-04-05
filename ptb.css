@@ -1,0 +1,26 @@
+
+
+.logo
+{ 
+  position:relative;
+  left: 200px;
+}
+
+.information
+{margin-left:20px;} 
+
+.schedule{margin-top: 50px;}
+.schedule a{text-decoration: none;} 
+
+.field{margin-top: 50px;}
+.field a{text-decoration: none;}
+
+.diary{margin-top: 50px;
+  margin-bottom: 50px;}
+
+.diary a{text-decoration: none;} 
+
+.Instagram{margin-top: 50px;
+margin-bottom: 30px;}
+
+.Instagram a{text-decoration: none;} 
